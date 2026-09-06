@@ -1,0 +1,8 @@
+payload:
+  - GEOSITE,CN
+  - GEOIP,CN
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,todoist.com
+  - DOMAIN-SUFFIX,element-plus.org
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,cp.acce.dev

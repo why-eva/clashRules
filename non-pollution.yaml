@@ -1,0 +1,7 @@
+payload:
+  - GEOSITE,netflix
+  - GEOSITE,bahamut
+  - DOMAIN-KEYWORD,cursor
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN-SUFFIX,avatars.githubusercontent.com

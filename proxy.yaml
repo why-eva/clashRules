@@ -1,0 +1,26 @@
+payload:
+  - GEOSITE,ehentai
+  - GEOSITE,twitter
+  - GEOSITE,youtube
+  - GEOSITE,telegram
+  - GEOSITE,spotify
+  - GEOSITE,pixiv
+  - GEOSITE,github
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-KEYWORD,vivaldi
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,wiki.metacubex.one
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,nexus-cdn.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,anyrouter.top

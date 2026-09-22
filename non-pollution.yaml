@@ -3,5 +3,6 @@ payload:
   - GEOSITE,bahamut
   - DOMAIN-KEYWORD,cursor
   - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,avatars.githubusercontent.com

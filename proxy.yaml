@@ -25,3 +25,7 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,anyrouter.top
   - DOMAIN-SUFFIX,right.codes
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokipedia.com
+  - DOMAIN-SUFFIX,grokusercontent.com
+  - DOMAIN-SUFFIX,x.ai

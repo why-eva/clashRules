@@ -6,6 +6,3 @@ payload:
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,avatars.githubusercontent.com
-  - DOMAIN-KEYWORD,grok
-  - DOMAIN-SUFFIX,grokipedia.com
-  - DOMAIN-SUFFIX,x.ai
